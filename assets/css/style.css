@@ -1,13 +1,16 @@
+/* universal selector */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* body selector */
 body {
     background-color: #d9dcd6;
 }
 
+/* header class selector */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -20,11 +23,13 @@ body {
     font-size: 48px;
 }
 
-.header h1 .seo {
+/* deleted .header h1 to clean up code */
+.seo {
     color: #d9dcd6;
 }
 
-.header div {
+/* changed div to nav to reflect html code */
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,24 +37,27 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* a tag selector */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* p tag selector */
 p {
     font-size: 16px;
 }
 
+/* hero image class selector */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +67,7 @@ p {
     background-position: center;
 }
 
+/* all articles tags within section class selector */
 .float-left {
     float: left;
     margin-right: 25px;
