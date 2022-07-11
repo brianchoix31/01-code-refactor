@@ -8,4 +8,4 @@
 ## Link to Deployed Application
 
 ## Link to GitHub Repository
-<a href="[url](https://github.com/brianchoix31/01-code-refactor)">GitHub Repository</a>
+<a href="https://github.com/brianchoix31/01-code-refactor">GitHub Repository</a>
