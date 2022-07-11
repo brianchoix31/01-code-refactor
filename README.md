@@ -7,3 +7,6 @@
 
 ## Link to Deployed Application
 
+## Link to GitHub Repository
+GitHub Repository
+https://github.com/brianchoix31/01-code-refactor
