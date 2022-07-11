@@ -3,9 +3,9 @@
 ## Description
 With the given starting code, the first Challenge must meet the following criteria:
 <ul>
-  <li>Semantic HTML elements are implemented in the source code.</li>
+  <li>Semantic HTML elements implemented in the source code.</li>
   <li>Coffee.</li>
-  <li>Proper alt attributes given to icon and image elements</li>
+  <li>Proper alt attributes given to icon and image elements.</li>
   <li>Sequential ordering of heading attributes.</li>
   <li>Concise, description title given to title element.</li>
 </ul>
