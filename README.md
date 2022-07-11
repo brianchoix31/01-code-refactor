@@ -1,7 +1,7 @@
 # 01-code-refactor
 
 ## Description
-With the given starting code, the first Challenge must meet the following criteria:
+With the given source code, the first Challenge must meet the following criteria:
 <ul>
   <li>Semantic HTML elements implemented in the source code.</li>
   <li>Coffee.</li>
