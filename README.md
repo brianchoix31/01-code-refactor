@@ -1,11 +1,13 @@
 # 01-code-refactor
 
 ## Description
-With the given starting code, the first Challenge requires the following:
+With the given starting code, the first Challenge must meet the following criteria:
 <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>Semantic HTML elements are implemented in the source code.</li>
+  <li>Coffee.</li>
+  <li>Proper alt attributes given to icon and image elements</li>
+  <li>Sequential ordering of heading attributes.</li>
+  <li>Concise, description title given to title element.</li>
 </ul>
 
 ## Visual
