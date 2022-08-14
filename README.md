@@ -4,7 +4,7 @@
 With the given source code, the first Challenge must meet the following criteria:
 <ul>
   <li>Semantic HTML elements implemented in the source code.</li>
-  <li>Coffee.</li>
+  <li>A logical structure is applied to the given HTML elements.</li>
   <li>Proper alt attributes given to icon and image elements.</li>
   <li>Sequential ordering of heading attributes.</li>
   <li>Concise, description title given to title element.</li>
@@ -12,7 +12,8 @@ With the given source code, the first Challenge must meet the following criteria
 
 ## Visual
 
-## Link to Deployed Application
+## Link to Deployed GitHub Page
+<a href="https://brianchoix31.github.io/01-code-refactor/">Deployed GitHub Page</a>
 
 ## Link to GitHub Repository
 <a href="https://github.com/brianchoix31/01-code-refactor">GitHub Repository</a>
