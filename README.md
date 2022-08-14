@@ -11,6 +11,7 @@ With the given source code, the first Challenge must meet the following criteria
 </ul>
 
 ## Visual
+<img src="https://user-images.githubusercontent.com/108188990/184522073-c6b58289-7491-4cf4-82ca-676edeecccef.png">
 
 ## Link to Deployed GitHub Page
 <a href="https://brianchoix31.github.io/01-code-refactor/">Deployed GitHub Page</a>
